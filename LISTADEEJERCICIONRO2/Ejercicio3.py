@@ -1,4 +1,4 @@
-print("EJERCICIO 4\n")
+print("EJERCICIO 3\n")
 
 def MayorValor():
     x = input("Ingrese un numero: ")
